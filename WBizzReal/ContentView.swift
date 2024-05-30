@@ -22,7 +22,7 @@ struct ContentView: View{
                 }
             }
             .searchable(text:$searchText)
-            .navigationTitle("WBizz update")
+            .navigationTitle("WBizz update update 2")
         }
     }
     
